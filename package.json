@@ -1,6 +1,6 @@
 {
   "name": "@kartotherian/tilelive-overlay",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "use geojson and simplestyle features rendered with mapnik",
   "main": "index.js",
   "scripts": {
