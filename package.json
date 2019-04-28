@@ -32,7 +32,7 @@
     "tap": "~0.4.8"
   },
   "dependencies": {
-    "@kartotherian/geojson-mapnikify": "^2.1.0",
+    "@kartotherian/geojson-mapnikify": "^2.1.1",
     "@mapbox/sphericalmercator": "~1.0.2"
   }
 }
