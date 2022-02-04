@@ -1,6 +1,6 @@
 var test = require('tap').test,
     fs = require('fs'),
-    mapnik = require('@kartotherian/mapnik'),
+    mapnik = require('mapnik'),
     Overlay = require('../');
 
 test('overlay', function(t) {

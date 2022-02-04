@@ -1,5 +1,5 @@
 var util = require('util'),
-    mapnik = require('@kartotherian/mapnik'),
+    mapnik = require('mapnik'),
     sm = new (require('@mapbox/sphericalmercator'))(),
     mapnikify = require('@kartotherian/geojson-mapnikify'),
     url = require('url'),
